@@ -104,9 +104,24 @@ Tasks completed:
 
 Tasks completed:
 
-- Reviewed authentication methods
-- Examined password reset policies
-- Evaluated identity security features
+- Reviewed authentication management interfaces
+- Examined security administration features
+- Analyzed access restrictions based on administrative roles
+- Observed role-based access control implementation
+
+Findings:
+
+- Authentication management features are protected by role-based permissions
+- Access to policy configuration requires elevated administrative privileges
+- Administrative access is separated according to organizational security requirements
+
+Key Concepts:
+
+- Multi-Factor Authentication (MFA)
+- Authentication Methods
+- Role-Based Access Control (RBAC)
+- Least Privilege Administration
+- Identity Security
 
 ## Skills Demonstrated
 
