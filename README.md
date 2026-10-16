@@ -5,6 +5,8 @@ This project demonstrates identity and endpoint administration using Microsoft E
 
 ## Technologies Used
 
+Tasks completed:
+
 - Microsoft Entra ID
 - Microsoft Intune
 - Microsoft Endpoint Manager
@@ -13,6 +15,8 @@ This project demonstrates identity and endpoint administration using Microsoft E
 
 ## User Management
 
+Tasks completed:
+
 - Created cloud user accounts
 - Modified user properties
 - Reset user passwords
@@ -20,11 +24,24 @@ This project demonstrates identity and endpoint administration using Microsoft E
 
 ## Group Management
 
-- Reviewed security groups
-- Examined group memberships
-- Analyzed group-based access management
+Tasks completed:
+
+- Reviewed organizational groups
+- Examined group membership structures
+- Analyzed group-based access management concepts
+- Identified security and collaboration group types
+
+Key Concepts:
+
+- Security Groups
+- Microsoft 365 Groups
+- Group Membership Management
+- Access Control Through Group Assignment
+
 
 ## Identity Administration
+
+Tasks completed:
 
 - Reviewed organizational user accounts
 - Examined user properties and account types
@@ -33,11 +50,15 @@ This project demonstrates identity and endpoint administration using Microsoft E
 
 ## Role-Based Access Control (RBAC)
 
+Tasks completed:
+
 - Reviewed administrative roles
 - Examined role assignments
 - Analyzed delegated administration concepts
 
 ## Device Management
+
+Tasks completed:
 
 - Reviewed registered devices
 - Examined device inventory
@@ -45,17 +66,23 @@ This project demonstrates identity and endpoint administration using Microsoft E
 
 ## Enterprise Applications
 
+Tasks completed:
+
 - Reviewed enterprise applications
 - Examined application integration options
 - Analyzed single sign-on concepts
 
 ## Authentication and Security
 
+Tasks completed:
+
 - Reviewed authentication methods
 - Examined password reset policies
 - Evaluated identity security features
 
 ## Skills Demonstrated
+
+Tasks completed:
 
 - Identity Administration
 - Group Management
@@ -67,6 +94,8 @@ This project demonstrates identity and endpoint administration using Microsoft E
 - Security Administration
 
 ## Real-World Use Cases
+
+Tasks completed:
 
 This project simulates common administrative responsibilities including:
 
