@@ -26,17 +26,25 @@ Tasks completed:
 
 Tasks completed:
 
-- Reviewed organizational groups
-- Examined group membership structures
-- Analyzed group-based access management concepts
-- Identified security and collaboration group types
+- Reviewed organizational group structures
+- Examined group membership assignments
+- Analyzed  access management through groups
+- Reviewed security and collaboration group types
+
+Findings: 
+
+- Total Groups Reviewed: 99
+- Security Groups: 1
+- Microsoft 365 Groups: 98
+- Verified ability to review group membership assignments
 
 Key Concepts:
 
 - Security Groups
 - Microsoft 365 Groups
-- Group Membership Management
-- Access Control Through Group Assignment
+- Group-Based Access Control
+- Access Administration
+- User Membership Management
 
 
 ## Identity Administration
