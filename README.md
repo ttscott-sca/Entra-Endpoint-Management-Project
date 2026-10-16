@@ -68,9 +68,29 @@ Tasks completed:
 
 Tasks completed:
 
-- Reviewed registered devices
-- Examined device inventory
-- Analyzed endpoint management capabilities
+- Reviewed registered organizational devices
+- Examined endpoint inventory
+- Analyzed device ownership information
+- Reviewed operating system versions
+- Evaluated device registration status
+- Examined device management attributes
+
+Findings:
+
+- Total Devices Reviewed: 813
+- Multiple device types identified
+- Windows devices present throughout the environment
+- Microsoft Entra registered devices observed
+- Device ownership and registration information reviewed
+
+Key Concepts:
+
+- Device Registration
+- Endpoint Inventory Management
+- Device Ownership
+- Microsoft Entra Registration
+- Mobile Device Management (MDM)
+- Endpoint Lifecycle Management
 
 ## Enterprise Applications
 
